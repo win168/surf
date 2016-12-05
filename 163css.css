@@ -10,7 +10,7 @@ html{ height:100%;}
 .pa{ position:absolute;}
 .none{ display:none;}
 
-#wrap{ width:100%; position:relative; height:100%;background:#FFFFFF;}
+#wrap{ width:100%; position:relative; height:100%;background:#FFFFFF;top:-50px;}
 #scroll_box{ width:100%;overflow:hidden; }
 .box_163css{ width:100%; position:relative;height:920px; overflow:hidden;}
 .roll_ul{ position:absolute; left:0; top:5%;}
