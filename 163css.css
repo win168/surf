@@ -12,7 +12,7 @@ html{ height:100%;}
 
 #wrap{ width:100%; position:relative; height:100%;background:#FFFFFF;}
 #scroll_box{ width:100%;overflow:hidden; }
-.box_163css{ width:100%; position:relative;height:820px; overflow:hidden;}
+.box_163css{ width:100%; position:relative;height:920px; overflow:hidden;}
 .roll_ul{ position:absolute; left:0; top:5%;}
 .roll_ul li{float:left;}
 
